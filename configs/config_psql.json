@@ -1,0 +1,4 @@
+{
+  "type": "PSQL",
+  "URL": "postgresql://postgres:password@localhost:5432/users"
+}
